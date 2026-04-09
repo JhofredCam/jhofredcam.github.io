@@ -20,7 +20,7 @@ const {title, description, publishDate, tags, cover} = post.data;
 
 const {Content} = await render(post);
 ---
-<Layout title={title} description={description} imageOg={cover.src.src} scrollSmooth={true}>
+<Layout title={title} description={description} imageOg={cover?.src?.src} scrollSmooth={true}>
     <>
         <div class="flex justify-center mt-10">
             <BackBtn/>
@@ -31,8 +31,10 @@ const {Content} = await render(post);
                 {tags.join(', ')}
             </p>
         </div>
-        <Image transition:name={`${post.id}-image`} class="rounded-2xl h-[400px] object-cover" src={cover.src}
-               alt="Main project image"/>
+        {cover && (
+            <Image transition:name={`${post.id}-image`} class="rounded-2xl h-[400px] object-cover" src={cover.src}
+                   alt={cover.alt ?? "Post cover image"}/>
+        )}
         <article id="article" class="mt-8 prose dark:prose-invert">
             <Content/>
         </article>

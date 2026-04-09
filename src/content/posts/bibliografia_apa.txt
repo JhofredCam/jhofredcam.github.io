@@ -1,0 +1,43 @@
+Referencias bibliograficas en formato APA (7a ed.)
+
+Rosenbrock, H. H. (1960). An automatic method for finding the greatest or least value of a function. The Computer Journal, 3(3), 175-184. https://doi.org/10.1093/comjnl/3.3.175
+
+Nocedal, J., & Wright, S. J. (2006). Numerical optimization (2nd ed.). Springer. https://doi.org/10.1007/978-0-387-40065-5
+
+Boyd, S., & Vandenberghe, L. (2004). Convex optimization. Cambridge University Press. https://stanford.edu/~boyd/cvxbook/
+
+Holland, J. H. (1992). Adaptation in natural and artificial systems: An introductory analysis with applications to biology, control, and artificial intelligence. MIT Press. https://mitpress.mit.edu/9780262581110/adaptation-in-natural-and-artificial-systems/
+
+Mitchell, M. (1998). An introduction to genetic algorithms. MIT Press. https://mitpress.mit.edu/9780262631853/an-introduction-to-genetic-algorithms/
+
+Kennedy, J., & Eberhart, R. (1995). Particle swarm optimization. In Proceedings of ICNN'95 - International Conference on Neural Networks (Vol. 4, pp. 1942-1948). IEEE. https://doi.org/10.1109/ICNN.1995.488968
+
+Storn, R., & Price, K. (1997). Differential evolution-a simple and efficient heuristic for global optimization over continuous spaces. Journal of Global Optimization, 11, 341-359. https://doi.org/10.1023/A:1008202821328
+
+Dorigo, M., Maniezzo, V., & Colorni, A. (1996). Ant system: Optimization by a colony of cooperating agents. IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics), 26(1), 29-41. https://doi.org/10.1109/3477.484436
+
+Jamil, M., & Yang, X.-S. (2013). A literature survey of benchmark functions for global optimisation problems. International Journal of Mathematical Modelling and Numerical Optimisation, 4(2), 150-194. https://doi.org/10.1504/IJMMNO.2013.055204
+
+Surjanovic, S., & Bingham, D. (2013). Virtual library of simulation experiments: Test functions and datasets. Simon Fraser University. https://www.sfu.ca/~ssurjano/optimization.html
+
+Surjanovic, S., & Bingham, D. (2013). Rosenbrock function. Simon Fraser University. https://www.sfu.ca/~ssurjano/rosen.html
+
+Surjanovic, S., & Bingham, D. (2013). Rastrigin function. Simon Fraser University. https://www.sfu.ca/~ssurjano/rastr.html
+
+Surjanovic, S., & Bingham, D. (2013). Schwefel function. Simon Fraser University. https://www.sfu.ca/~ssurjano/schwef.html
+
+Surjanovic, S., & Bingham, D. (2013). Griewank function. Simon Fraser University. https://www.sfu.ca/~ssurjano/griewank.html
+
+Surjanovic, S., & Bingham, D. (2013). Goldstein-Price function. Simon Fraser University. https://www.sfu.ca/~ssurjano/goldpr.html
+
+Surjanovic, S., & Bingham, D. (2013). Six-Hump Camel function. Simon Fraser University. https://www.sfu.ca/~ssurjano/camel6.html
+
+Applegate, D. L., Bixby, R. E., Chvatal, V., & Cook, W. J. (2007). The traveling salesman problem: A computational study. Princeton University Press. https://press.princeton.edu/books/hardcover/9780691129938/the-traveling-salesman-problem
+
+Instituto Nacional de Estadistica y Geografia (INEGI). (2026). Servicio web del Catalogo Unico de Claves Geoestadisticas. https://www.inegi.org.mx/servicios/catalogounico.html
+
+Secretaria de Infraestructura, Comunicaciones y Transportes (SICT). (2011). Carreteras V2 (incluye modulo Traza tu ruta). https://www.sct.gob.mx/index.php?id=1617
+
+Caminos y Puentes Federales de Ingresos y Servicios Conexos (CAPUFE). (2025). Tarifas CAPUFE [Conjunto de datos]. datos.gob.mx. https://www.datos.gob.mx/dataset/tarifas_capufe
+
+Comision Nacional de Energia (CNE). (2025). Historico de precios de gasolinas y diesel reportados por permisionario [Conjunto de datos]. datos.gob.mx. https://www.datos.gob.mx/dataset/historico_precios_gasolinas_y_diesel_reportados_por_permisionario

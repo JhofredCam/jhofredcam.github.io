@@ -18,7 +18,7 @@ const posts = defineCollection({
         cover: z.object({
             src: image(),
             alt: z.string().optional(),
-        }),
+        }).optional(),
     }),
 });
 

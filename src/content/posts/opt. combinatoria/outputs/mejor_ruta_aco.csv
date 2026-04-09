@@ -1,0 +1,34 @@
+step,capital,state,lat,lon,cumulative_cost_mxn
+0,Ciudad de Mexico,Ciudad de Mexico,19.4326,-99.1332,0.0
+1,Toluca,Mexico,19.2826,-99.6557,327.738
+2,Cuernavaca,Morelos,18.9242,-99.2216,627.822
+3,Puebla,Puebla,19.0413,-98.2062,1143.197
+4,Tlaxcala,Tlaxcala,19.3139,-98.2404,1297.04
+5,Xalapa,Veracruz,19.5438,-96.9102,2069.915
+6,Villahermosa,Tabasco,17.9895,-92.9475,4253.781
+7,San Francisco de Campeche,Campeche,19.845,-90.5239,5964.836
+8,Merida,Yucatan,20.9674,-89.5926,6765.117
+9,Chetumal,Quintana Roo,18.5002,-88.2961,8353.413
+10,Tuxtla Gutierrez,Chiapas,16.7516,-93.116,11187.083
+11,Oaxaca de Juarez,Oaxaca,17.0732,-96.7266,13279.509
+12,Chilpancingo,Guerrero,17.5515,-99.5006,14799.032
+13,Morelia,Michoacan,19.705,-101.194,16344.598
+14,Santiago de Queretaro,Queretaro,20.5888,-100.3899,17032.831
+15,Guanajuato,Guanajuato,21.019,-101.2574,17531.035
+16,San Luis Potosi,San Luis Potosi,22.1565,-100.9855,18267.669
+17,Aguascalientes,Aguascalientes,21.8853,-102.2916,19078.779
+18,Zacatecas,Zacatecas,22.7709,-102.5832,19626.197
+19,Guadalajara,Jalisco,20.6597,-103.3496,20884.543
+20,Colima,Colima,19.2433,-103.725,21685.875
+21,Tepic,Nayarit,21.5042,-104.8946,23151.523
+22,Durango,Durango,24.0277,-104.6532,24687.185
+23,Culiacan,Sinaloa,24.8091,-107.394,26380.135
+24,La Paz,Baja California Sur,24.1426,-110.3128,28000.542
+25,Hermosillo,Sonora,29.0729,-110.9559,31031.427
+26,Mexicali,Baja California,32.6245,-115.4523,33981.178
+27,Chihuahua,Chihuahua,28.6329,-106.0691,39081.735
+28,Saltillo,Coahuila,25.4267,-100.9954,42401.236
+29,Monterrey,Nuevo Leon,25.6866,-100.3161,42802.034
+30,Ciudad Victoria,Tamaulipas,23.7369,-99.1411,44061.114
+31,Pachuca,Hidalgo,20.1011,-98.7591,46272.278
+32,Ciudad de Mexico,Ciudad de Mexico,19.4326,-99.1332,46698.835
