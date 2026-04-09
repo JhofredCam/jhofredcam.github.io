@@ -10,10 +10,6 @@ interface Post {
         description: string;
         publishDate: Date;
         tags: string[];
-        cover?: {
-            src: ImageMetadata;
-            alt?: string;
-        };
     };
 }
 
@@ -40,7 +36,6 @@ const allPost = (await getCollection('posts'))
                                 description={post.data.description}
                                 publishDate={post.data.publishDate}
                                 tags={post.data.tags}
-                                cover={post.data.cover}
                         />
                 ))
             ) : (
