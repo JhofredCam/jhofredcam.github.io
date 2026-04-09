@@ -1,5 +1,4 @@
 ---
-import {Image} from "astro:assets";
 import ClockIcon from "@/icons/time-line.svg";
 
 interface Props {
@@ -30,10 +29,14 @@ const post = {
 
 <a href=`/blog/${id}` aria-label=`Read post about ${title}` class="flex flex-col md:flex-row md:items-center gap-4">
     <!--post cover-->
-    {post.data.cover && (
+    {post.data.cover?.src?.src && (
         <div class="flex-none w-full md:w-40 h-40 overflow-hidden rounded-xl">
-            <Image transition:name={`${post.id}-image`} src={post.data.cover.src} alt={post.data.cover.alt ?? title}
-                   class="w-full h-full object-cover rounded-xl"/>
+            <img
+                src={post.data.cover.src.src}
+                alt={post.data.cover.alt ?? title}
+                class="w-full h-full object-cover rounded-xl"
+                loading="lazy"
+            />
         </div>
     )}
     <!--post info-->
